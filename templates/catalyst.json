@@ -1,0 +1,8 @@
+{
+  "appsail": [
+    {
+      "source": "/ABSOLUTE/PATH/TO/deploy",
+      "name": "YOUR_APPSAIL_NAME"
+    }
+  ]
+}

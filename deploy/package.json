@@ -1,0 +1,14 @@
+{
+  "name": "zoho-catalyst-appsail-xhttp",
+  "version": "1.0.0",
+  "description": "Minimal Node launcher: write Xray VLESS+XHTTP packet-up config and spawn linux-amd64 xray for Zoho Catalyst AppSail",
+  "license": "MIT",
+  "private": false,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

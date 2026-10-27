@@ -1,0 +1,11 @@
+{
+  "command": "node server.js",
+  "build_path": ".",
+  "stack": "node24",
+  "memory": 256,
+  "env_variables": {
+    "UUID": "CHANGE_ME",
+    "WS_PATH": "/CHANGE_ME"
+  },
+  "scripts": {}
+}
